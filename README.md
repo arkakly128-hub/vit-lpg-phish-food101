@@ -12,4 +12,5 @@ A Vision Transformer from scratch with LocalPhishGate + Phish activation trained
 1. `pip install torch torchvision tqdm`
 2. `python Train model.py` # auto downloads Food-101 and trains the vit from scratch
 3. `python predict.py --img your_food.jpg`
-download the trained model by me from huggingface rezock58/best_vit_lpg_phish_v2
+download the trained model by me from huggingface
+ https://huggingface.co/rezock58/best_vit_lpg_phish_v2
